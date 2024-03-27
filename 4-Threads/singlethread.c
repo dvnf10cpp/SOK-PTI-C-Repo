@@ -104,5 +104,5 @@ int main(int argc, char **argv)
     } else {
         fprintf(stderr, "Values are still consistent\n");
     }
-    return 0;x
+    return 0;
 }
