@@ -8,7 +8,7 @@ static int think_time = 50;    // ammount of think time
 
 struct acct_t {
     int bal;
-}
+};
 
 /*
 Pointer to accounts
@@ -26,7 +26,7 @@ void *transact(void *dummy)
     int i;
     for(i = 0; i < num_trans; i++) {
         // pick two random accounts
-        int acct_id_form = rand() % num_accts;
+        int acct_id_from = rand() % num_accts;
         int acct_id_to = rand() % num_accts;
 
         // pick random ammount
@@ -99,7 +99,7 @@ int main(int argc, char **argv)
     }
 
     // if the sum if not equal to the original sum, then we had a race condition
-    if (sum != orignal_sum) {
+    if (sum != original_sum) {
         fprintf(stderr, "ERROR! original_sum = %d, sum = %d\n", original_sum, sum);
     } else {
         fprintf(stderr, "Values are still consistent\n");
