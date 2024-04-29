@@ -2,7 +2,7 @@
 
 ## Soal
 
-[Link Soal](s.ub.ac.id/utpsokpti24aklwid)
+[Link Soal](https://s.ub.ac.id/utpsokpti24aklwid)
 
 ## Kunci Jawaban
 
