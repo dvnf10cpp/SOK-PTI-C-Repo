@@ -8,5 +8,3 @@ Repository ini menyimpan source code mata kuliah sistem operasi komputer
 #### 3. [Modul 6 : Penjadwalan](./6-Penjadwalan)
 
 ## 📝 Practicum Assessment
-
-#### 1. [Mid Practicum Assessment](./UTP/README.md)
