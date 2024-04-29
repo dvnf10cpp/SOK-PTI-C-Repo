@@ -32,10 +32,10 @@ void *functionCount2(){
         pthread_mutex_lock( &count_mutex );
 
         if( count < 3 || count > 6 ) {
-        // Condition of if statement has been met.
-        // Signal to free waiting thread by freeing the mutex.
-        // Note: functionCount1() is now permitted to modify "count".
-        pthread_cond_signal( &condition_var );
+            // Condition of if statement has been met.
+            // Signal to free waiting thread by freeing the mutex.
+            // Note: functionCount1() is now permitted to modify "count".
+            pthread_cond_signal( &condition_var );
         } else {
         count++;
         printf("Counter value functionCount2: %d\n",count);
