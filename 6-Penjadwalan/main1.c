@@ -100,4 +100,3 @@ int main()
 	AvTA=(float)TotTA/n;
 	printf("\tAverage Waiting Time : %f\n", AvWT);
 	printf("\tAverage Turn Around Time : %f\n", AvTA);
-}
