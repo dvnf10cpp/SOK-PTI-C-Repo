@@ -23,6 +23,7 @@ Apabila kamu ketahuan melakukan duplikasi dari modul, asal copy paste dari sumbe
 
 - Buatlah laporan praktikum terpisah dari yang versi modul
 - Letakkan source code ke dalam laporan praktikum
+- Sisipkan screenshot hasil program pada laporan praktikum
 - Jelaskan program yang telah kalian buat
 - Kumpulkan laporan praktikum tugas bonus beserta source code ke classroom
 
