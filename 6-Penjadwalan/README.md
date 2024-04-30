@@ -21,9 +21,10 @@ Apabila kamu ketahuan melakukan duplikasi dari modul, asal copy paste dari sumbe
 
 ## 📤 Submission
 
-1. Masukkan juga source code ke dalam laporan praktikum
-2. Jelaskan program yang kalian buat di dalam laporan praktikum yang sama dengan Tugas 6
-3. Kumpulkan source codenya juga ke classroom
+- Buatlah laporan praktikum terpisah dari yang versi modul
+- Letakkan source code ke dalam laporan praktikum
+- Jelaskan program yang telah kalian buat
+- Kumpulkan laporan praktikum tugas bonus beserta source code ke classroom
 
 ## END
 
