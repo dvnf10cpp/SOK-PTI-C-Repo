@@ -9,3 +9,5 @@ Repository ini menyimpan source code mata kuliah sistem operasi komputer
 #### 4. [Modul 7 : Deadlock](./7-Deadlock/)
 
 ## 📝 Practicum Assessment
+
+#### 1. [UTP](./UTP)
