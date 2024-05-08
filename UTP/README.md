@@ -2,7 +2,7 @@
 
 ## Soal
 
-[Link Soal](https://s.ub.ac.id/utpsokpti24aklwid)
+Soal UTP dapat dilihat pada link berikut : [Link Soal](https://s.ub.ac.id/utpsokpti24aklwid)
 
 ## Kunci Jawaban
 
