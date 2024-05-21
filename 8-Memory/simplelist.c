@@ -35,7 +35,8 @@ NODE* add(NODE* node, DATA data) {
 }
 
 void remove_node(NODE* head) {
-    NODE* temp = (NODE*) malloc(sizeof (NODE));
+    
+    NODE* temp = (NODE*) malloc(sizeof (NODE)); // C
     if (temp == NULL) {
         exit(EXIT_FAILURE);
     }
@@ -61,16 +62,25 @@ int main() {
     NODE* node;
     DATA element;
     printf("Add Elements to List:\n");
+
+    // menginisialisasi list
     init(&head);
+
+    // menambahkan element ke list
     for (i = 53; i <= 63; i++) {
         element.info = i;
         printf("Add Element %2d To The List.\n", element.info); head = add(head, element);
     }
+
+    // menampilkan listnya
     printf("\nPrint The List:\n");
     print_list(head);
+
+
     printf("\nRemove Element From The List:\n");
     node = head->next->next;
     remove_node(node);
+    //
     head = free_list(head);
     printf("Press any key to continue...");
     int ch = getchar();
